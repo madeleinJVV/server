@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b94a69b1-f1cd-4205-afe7-815bbfd71e91" name="Paase site waarvoor ek $5 per maand moet betaal" url="http://157.245.137.27">
+        <fileTransfer host="157.245.137.27" port="21" rootFolder="/home/madie">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
